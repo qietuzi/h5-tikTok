@@ -1,0 +1,95 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": {
+    "data": {
+      "current_page": 1,
+      "data": [
+        {
+          "id": 3,
+          "user_id": 19,
+          "code": "spreadf6872d79-7723-3e5e-150c-b9a1722d6872",
+          "type": 0,
+          "maibao_num": 300,
+          "maibao_num_surplus": 300,
+          "maibao_spend_num": 1,
+          "status": 2,
+          "title": "\u585e\u73ed\u5c9b,\u4e0b\u6b21\u518d\u89c1!",
+          "cover": "http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309603269_141809.jpeg",
+          "content": "[{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309603269_141809.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309612120_268431.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309620877_420073.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309630826_736252.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309638436_931238.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309645541_168434.jpeg\",\"txt\":\" \"}]",
+          "user_marketing_id": 0,
+          "card_id": 61,
+          "province_id": 1,
+          "web_site": null,
+          "browse_num": 12,
+          "share_num": 0,
+          "remarks": "",
+          "is_deleted": 0,
+          "created_at": "2019-02-16 17:34:22",
+          "updated_at": "2019-02-17 11:32:04"
+        },
+        {
+          "id": 2,
+          "user_id": 19,
+          "code": "spread69db474e-aae9-8c3c-5df5-9dc92aaef823",
+          "type": 0,
+          "maibao_num": 300,
+          "maibao_num_surplus": 300,
+          "maibao_spend_num": 1,
+          "status": 2,
+          "title": "\u9a6c\u5c14\u4ee3\u592b\u4e4b\u65c5!!!",
+          "cover": "http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309391840_346049.jpeg",
+          "content": "[{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309391840_346049.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309398600_831977.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309405214_736461.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309412440_878134.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309418628_444191.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309424672_735952.jpeg\",\"txt\":\" \"}]",
+          "user_marketing_id": 0,
+          "card_id": 61,
+          "province_id": 1,
+          "web_site": null,
+          "browse_num": 10,
+          "share_num": 0,
+          "remarks": "",
+          "is_deleted": 0,
+          "created_at": "2019-02-16 17:30:50",
+          "updated_at": "2019-02-16 17:38:23"
+        },
+        {
+          "id": 1,
+          "user_id": 19,
+          "code": "spread0545794b-24f1-00d4-4bed-a143996b4cfb",
+          "type": 0,
+          "maibao_num": 300,
+          "maibao_num_surplus": 300,
+          "maibao_spend_num": 1,
+          "status": 2,
+          "title": "\u5df4\u5398\u5c9b\u771f\u597d\u73a9!",
+          "cover": "http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309114707_738787.jpeg",
+          "content": "[{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309114707_738787.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309056265_597074.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309063137_128060.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309114707_738787.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309083734_434113.jpeg\",\"txt\":\" \"},{\"img\":\"http://hytx-upload-images.oss-cn-beijing.aliyuncs.com/hytx/images/190216/1550309090932_544115.jpeg\",\"txt\":\" \"}]",
+          "user_marketing_id": 0,
+          "card_id": 61,
+          "province_id": 1,
+          "web_site": null,
+          "browse_num": 4,
+          "share_num": 0,
+          "remarks": "",
+          "is_deleted": 0,
+          "created_at": "2019-02-16 17:26:17",
+          "updated_at": "2019-02-16 17:38:10"
+        }
+      ],
+      "to": 3,
+      "from": 1,
+      "total": 3,
+      "last_page": 1,
+      "per_page": 10
+    },
+    "cards": {
+      "61": {
+        "id": 61,
+        "head_picture": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLubj8UrSTSTA3Y5NDXMGSxlPpH55NKHFXphcohOpXdm0wTVQvHeWvjiccKMcVJuS64XsFw5teBmiaQ/132",
+        "motto": "",
+        "address": ""
+      }
+    },
+    "marketing": [],
+    "enterprise": []
+  }
+}
